@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+---------------------------------------------------------------------
+must add this into footer
+
+<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Pixel perfect - Flaticon</a>
+
+---------------------------------------------------------------------
+
 First, run the development server:
 
 ```bash
