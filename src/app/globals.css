@@ -1,0 +1,21 @@
+:root {
+  --dark-green: #3C4C44;
+  --beige: #E6E6C6;
+  --cafe-font: "Garamond", "Times New Roman", serif;
+}
+
+.navbar-custom {
+  background-color: var(--dark-green);
+  font-family: var(--cafe-font);
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  color: var(--beige) !important;
+}
+
+body {
+  background-color: var(--beige) !important;
+  min-height: 100vh !important;
+  background-image: radial-gradient(rgba(0,0,0,0.05) 1px, transparent 1px) !important;
+}
