@@ -40,3 +40,15 @@ footer {
   font-family: var(--cafe-font);
   color: var(--beige) !important;
 }
+
+.page-h1 {
+  font-family: var(--cafe-font) !important;
+  color: var(--dark-green);
+  font-size: 100px;
+}
+
+.page-p {
+  font-family: var(--cafe-font) !important;
+  color: var(--dark-green);
+  font-size: 50px;
+}
