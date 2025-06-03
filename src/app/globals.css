@@ -23,8 +23,8 @@ body::before {
   width: 100%;
   height: 100%;
   background: 
-    linear-gradient(rgba(255,255,255,var(--grain-opacity)), transparent),
-    url("/beige-paper.png");
+    /* url("/beige-paper.png"); */
+    url("/natural-paper.png");
   pointer-events: none; /* Allows clicks through */
   z-index: -1;
 }
@@ -32,5 +32,11 @@ body::before {
 body {
   background-color: var(--beige) !important;
   /* min-height: 100vh !important; */
-  /* background-image: radial-gradient(rgba(0,0,0,0.05) 1px, transparent 1px) !important; */
+}
+
+footer {
+  background-color: var(--dark-green);
+  max-height: 100;
+  font-family: var(--cafe-font);
+  color: var(--beige) !important;
 }
