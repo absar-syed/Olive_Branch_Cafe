@@ -6,7 +6,7 @@ export default function Header() {
     <nav className="navbar navbar-expand-lg navbar-custom">
       <div className="container-fluid">
 
-        <a className="navbar-brand" href="/"><h2>Olive Branch Cafe</h2></a>
+        <a className="navbar-brand" href="/"><h2>Olive Branch Cafè</h2></a>
 
         <button 
           className="navbar-toggler" 
