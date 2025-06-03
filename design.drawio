@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="-R4MFb3HSI3PxX3x_Y5x" name="Page-1">
-        <mxGraphModel dx="1096" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1023" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#E6E6C6;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="-20" width="980" height="1280" as="geometry"/>
+                    <mxGeometry x="50" y="-20" width="980" height="1850" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" parent="2" vertex="1">
                     <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
@@ -34,39 +34,59 @@
                 <mxCell id="16" value="&lt;font face=&quot;Garamond&quot; style=&quot;color: rgb(230, 230, 198); font-size: 35px;&quot;&gt;Olive Branch Cafe&lt;/font&gt;" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#3C4C44;fontSize=16;" parent="14" vertex="1">
                     <mxGeometry x="345" y="11.1" width="290" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6C6;" parent="2" vertex="1">
-                    <mxGeometry y="180" width="980" height="1100" as="geometry"/>
-                </mxCell>
-                <mxCell id="7" value="First slide" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#777777;fontColor=#555555;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" parent="2" vertex="1">
-                    <mxGeometry x="75" y="240" width="830" height="300" as="geometry"/>
-                </mxCell>
-                <mxCell id="8" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" parent="7" vertex="1">
-                    <mxGeometry x="1" y="0.5" width="7" height="14" relative="1" as="geometry">
-                        <mxPoint x="-50" y="-7" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="9" value="" style="flipH=1;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" parent="7" vertex="1">
-                    <mxGeometry y="0.5" width="7" height="14" relative="1" as="geometry">
-                        <mxPoint x="43" y="-7" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="10" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#ffffff;" parent="7" vertex="1">
-                    <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
-                        <mxPoint x="-50" y="-20" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="11" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;fontFamily=Comic Sans MS;" parent="7" vertex="1">
-                    <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
-                        <mxPoint x="-15" y="-20" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="12" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;" parent="7" vertex="1">
-                    <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
-                        <mxPoint x="20" y="-20" as="offset"/>
-                    </mxGeometry>
+                <mxCell id="23" value="&#xa;&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(33, 37, 41); font-family: Nunito, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;463e35&lt;/strong&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6C6;" parent="2" vertex="1">
+                    <mxGeometry y="180" width="980" height="1670" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2" vertex="1">
                     <mxGeometry x="280" y="630" width="380" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#463E35;" vertex="1" parent="2">
+                    <mxGeometry x="93.13" y="530" width="793.75" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="650" y="530" width="236.88" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 59px; color: rgb(60, 76, 68);&quot;&gt;A new aesthetic cafe now in Oshawa&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="90" y="270" width="800" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="insta video/picture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="738.44" y="660" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;h2&gt;&lt;span style=&quot;font-size: 22px; font-family: Garamond; background-color: transparent; font-weight: normal;&quot;&gt;&lt;font style=&quot;color: rgb(230, 230, 198);&quot;&gt;Our summer refreshers are officially here!! Stay cool this summer with the Melon Splash, Fizbiscus, and Tropical Breeze&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="183" y="610" width="385" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;h2&gt;&lt;font style=&quot;color: rgb(230, 230, 198); font-size: 28px;&quot; face=&quot;Garamond&quot;&gt;Summer Refreshers&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="235" y="590" width="280" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3C4C44;" vertex="1" parent="2">
+                    <mxGeometry x="93.13" y="880" width="793.75" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="93.13" y="880" width="236.88" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="&lt;h2&gt;&lt;span style=&quot;font-size: 22px; font-family: Garamond; background-color: transparent; font-weight: normal;&quot;&gt;&lt;font style=&quot;color: rgb(230, 230, 198);&quot;&gt;Dreamy greeny vibes here at Olive Branch. Filled with comfy and spacious seating. It&#39;s a mood, come join us!&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="425.94" y="970" width="385" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="&lt;h2&gt;&lt;font style=&quot;color: rgb(230, 230, 198); font-size: 28px;&quot; face=&quot;Garamond&quot;&gt;Aesthetic decor all year round&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="438.44" y="950" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="insta video/picture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="181.57000000000005" y="1010" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#463E35;" vertex="1" parent="2">
+                    <mxGeometry x="93.13" y="1230" width="793.75" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="650" y="1230" width="236.88" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;h2&gt;&lt;span style=&quot;font-size: 22px; font-family: Garamond; background-color: transparent; font-weight: normal;&quot;&gt;&lt;font style=&quot;color: rgb(230, 230, 198);&quot;&gt;Our summer refreshers are officially here!! Stay cool this summer with the Melon Splash, Fizbiscus, and Tropical Breeze&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="183" y="1310" width="385" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="&lt;h2&gt;&lt;font style=&quot;color: rgb(230, 230, 198); font-size: 28px;&quot; face=&quot;Garamond&quot;&gt;Summer Refreshers&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="235" y="1290" width="280" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;font style=&quot;font-size: 24px; color: rgb(60, 75, 60);&quot; face=&quot;Garamond&quot;&gt;Where every sip feels like home&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="301.25" y="420" width="377.5" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

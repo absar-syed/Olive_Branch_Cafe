@@ -9,7 +9,7 @@ export default function Footer() {
         </div>
 
         <div className="row">
-          {/* Contact Info */}
+          {/* Visit US */}
           <div className="col-md-4 text-center text-md-start">
             <h5 className="text-beige mb-3">Visit Us</h5>
             <div className="col-md-10">
@@ -26,7 +26,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Social Links */}
+          {/* Follow Us */}
           <div className="col-md-4 text-center text-md-end">
             <h5 className="text-beige mb-3">Follow Us</h5>
             <div className="social-links">

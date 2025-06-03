@@ -1,5 +1,4 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Image from 'next/image';
 
 export default function Header() {
   return ( 
@@ -33,14 +32,6 @@ export default function Header() {
           </ul>
 
         </div>
-    
-        {/* INSTAGRAM ICON WITH LINK TO INSTGRAM */}
-        {/* <div className="ms-auto" >
-          <a href='https://www.instagram.com/olive_branchcafe/' rel='noopener'>
-            <Image src="/instagram.png" alt="instagram icon" width={32} height={32} priority/>
-          </a>
-        </div> */}
-        
       </div>
     </nav>
   );
