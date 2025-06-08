@@ -1,11 +1,14 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Image from 'next/image';
 
 export default function Header() {
   return ( 
     <nav className="navbar navbar-expand-lg navbar-custom">
       <div className="container-fluid">
 
-        <a className="navbar-brand" href="/"><h2>Olive Branch Cafè</h2></a>
+        <a className="navbar-brand" href="/">
+          <Image src="/favicon.ico" alt='olive branch logo' width={85} height={85}/>
+        </a>
 
         <button 
           className="navbar-toggler" 
