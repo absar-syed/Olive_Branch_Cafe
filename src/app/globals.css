@@ -45,14 +45,14 @@ footer {
 
 .page-h1 {
   font-family: var(--cafe-font) !important;
-  color: var(--dark-green);
-  font-size: 100px;
+  color: var(--beige);
+  font-size: 75px !important;
 }
 
 .page-p {
   font-family: var(--cafe-font) !important;
-  color: var(--dark-green);
-  font-size: 50px;
+  color: var(--beige);
+  font-size: 25px !important;
 }
 
 
@@ -10913,7 +10913,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #f4623a;
+  background-color: var(--beige);
   opacity: 1;
 }
 
@@ -10986,7 +10986,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: url("../../public/olive.webp");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 10%), url("../../public/olive.webp");
   background-position: center 35%;
   background-repeat: no-repeat;
   background-attachment: scroll;

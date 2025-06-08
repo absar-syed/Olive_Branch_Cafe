@@ -1,15 +1,14 @@
 export default function Masthead() {
     return(
-        <header class="masthead">
-            <div class="container px-4 px-lg-5 h-100">
-                <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
-                    <div class="col-lg-8 align-self-end">
-                        <h1 class="text-white font-weight-bold">Your Favorite Place for Free Bootstrap Themes</h1>
-                        <hr class="divider" />
+        <header className="masthead" id="page-top">
+            <div className="container px-4 px-lg-5 h-100">
+                <div className="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
+                    <div className="col-lg-8 align-self-end">
+                        <h1 className="font-weight-bold page-h1">Where every sip feels like home...</h1>
+                        <hr className="divider" />
                     </div>
-                    <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">Start Bootstrap can help you build better websites using the Bootstrap framework! Just download a theme and start customizing, no strings attached!</p>
-                        <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
+                    <div className="col-lg-8 align-self-baseline">
+                        <p className="mb-5 page-p">A brand new aesthetic coffee shop is here to fill your hearts with beautiful decor and a delicous menu. </p>
                     </div>
                 </div>
             </div>
