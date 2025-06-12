@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function Footer() {
     return (
-            <footer className="footer mt-auto py-3" style={{ backgroundColor: '#3C4C44' }}>
+            <footer className="footer mt-auto py-3" style={{ backgroundColor: '#3C4C44' }} id='contact'>
       <div className="container">
         <div className='row'>
             

@@ -1,6 +1,8 @@
 @charset "UTF-8";
 
 :root {
+  --brown: #463E35;
+  --light-green : #78795E;
   --dark-green: #3C4C44;
   --beige: #E6E6C6;
   --cafe-font: "Garamond", "Times New Roman", serif;
@@ -25,7 +27,6 @@ body::before {
   width: 100%;
   height: 100%;
   background: 
-    /* url("/beige-paper.png"); */
     url("/natural-paper.png");
   pointer-events: none; /* Allows clicks through */
   z-index: -1;
@@ -55,6 +56,14 @@ footer {
   font-size: 25px !important;
 }
 
+.dark-green-bg {
+  background-color: var(--dark-green) !important;
+}
+
+.cafe-font {
+  font-family: var(--cafe-font) !important;
+  color: var(--beige) !important; 
+}
 
 /*!
 * Start Bootstrap - Creative v7.0.7 (https://startbootstrap.com/theme/creative)
